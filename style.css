@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name-project {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 28px;
+    color: orange;
+    margin: 0;
+    padding: 2%;
+}
+
+.content {
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+}
+
+li {
+    padding: 1%;
+    font-size: 20px;
+}
